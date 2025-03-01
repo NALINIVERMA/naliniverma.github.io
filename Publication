@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Publications & Contact - Nalini Verma</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Publications & Contact</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="research.html">Research & Education</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="publications">
+        <h2>Publications & Paper Presentations</h2>
+        <p>Education Is Not Only An Issue Of Literate But Of Learner: A Lifelong Learning Competency. <a href="https://doi.org/10.59765/mjhy8529">Journal of Research Innovation and Implications in Education</a></p>
+        <p>Paper presentations at national and international seminars on topics such as NEP 2020 and Teacher Education.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:vnalini.verma2@gmail.com">vnalini.verma2@gmail.com</a></p>
+        <p>Email (University): <a href="mailto:rs2022edu_nalini@lkouniv.ac.in">rs2022edu_nalini@lkouniv.ac.in</a></p>
+        <p>ORCID ID: 0009-0000-1116-5503</p>
+        <p>ResearchGate: <a href="https://www.researchgate.net/profile/Nalini-Verma">Nalini Verma</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Nalini Verma</p>
+    </footer>
+</body>
+</html>
