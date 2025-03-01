@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research & Education - Nalini Verma</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Research & Education</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="publications.html">Publications & Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="research">
+        <h2>Research Work</h2>
+        <p>Growth Mindset, Self-Regulated Learning, and Technological Self-Efficacy: Assessing and Comparing as Lifelong Learning Competencies among teacher educators.</p>
+    </section>
+    
+    <section id="education">
+        <h2>Education</h2>
+        <ul>
+            <li>PhD in Education (Ongoing) - University of Lucknow</li>
+            <li>M.Ed. - University of Lucknow, 2021</li>
+            <li>B.Ed. - University of Lucknow, 2013</li>
+            <li>M.Sc. in Pharmaceutical Chemistry - University of Lucknow, 2012</li>
+            <li>B.Sc. - University of Lucknow, 2010</li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Nalini Verma</p>
+    </footer>
+</body>
+</html>
